@@ -1,4 +1,4 @@
-# App name
+# Smart BookSearch
 
 [brief description of the app]
 
