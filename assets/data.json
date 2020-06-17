@@ -1,0 +1,55 @@
+
+{
+    "GROUP A": {
+      "name": "Ask AP Links",
+      "open": false,
+      "urls":"https://www.google.com/",
+      "desc": "Google Primary Contacts",
+      "heading": "test",
+      "items": [
+        "item 1"
+      ]
+    },
+    "GROUP B": {
+      "name": "US Receipts Links",
+      "open": false,
+      "urls":"http://ww1.oracle.org/?subid1=c128b7f2-b0c4-11ea-8b42-09bfe8d7cd03",
+      "desc": "Oracle Home Page",
+      "items": [
+        "item 1",
+        "item 2",
+        "item 3",
+        "item 4",
+        "item 5",
+        "item 6",
+        "item 7"
+      ]
+    },
+    "GROUP C": {
+      "name": "UK Receipts Links",
+      "open": false,
+      "urls":"https://tcs.org/",
+      "desc": "TCS Home Page",
+      "items": [
+        "item 1",
+        "item 2",
+        "item 3",
+        "item 4",
+        "item 5"
+      ]
+    },
+    "GROUP D": {
+      "name":"UK Invoices Links",
+      "urls":"https://www.ibm.com/in-en",
+      "desc": "IBM Home Page",
+      "items": [
+        "item 1",
+        "item 2",
+        "item 3",
+        "item 4",
+        "item 5",
+        "item 6",
+        "item 7"
+      ]
+    }
+  }
